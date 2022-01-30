@@ -6,8 +6,8 @@ A repository documenting resources to learn about making and operating multiplay
 
 ### Books
 * Development and Deployment of Multiplayer Online Games Series 
-  * [Vol. 1](https://www.goodreads.com/book/show/36438566-development-deployment-of-multiplayer-online-games-vol-i) 
-  * [Vol. 2](https://www.goodreads.com/book/show/54585990-development-and-deployment-of-multiplayer-online-games-vol-ii)
+  * [Vol. 1: GDD, Authoritative Servers, Communications](https://www.goodreads.com/book/show/36438566-development-deployment-of-multiplayer-online-games-vol-i) 
+  * [Vol. 2: DIY, (Re)Actors, Client Arch, Unity/UE4/Lumberyard](https://www.goodreads.com/book/show/54585990-development-and-deployment-of-multiplayer-online-games-vol-ii)
 * [Multiplayer Game Programming: Architecting Networked Games (Game Design)](https://www.goodreads.com/book/show/28105277-multiplayer-game-programming)
 
 ### Articles
@@ -17,3 +17,4 @@ A repository documenting resources to learn about making and operating multiplay
   * [Part II: Implementation](http://engineering.riotgames.com/news/determinism-league-legends-implementation) 
   * [Part III: Unified Clock](http://engineering.riotgames.com/news/determinism-league-legends-unified-clock) 
   * [Part IV: Fixing Divergences](http://engineering.riotgames.com/news/determinism-fixing-divergences)
+* [Real-time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
