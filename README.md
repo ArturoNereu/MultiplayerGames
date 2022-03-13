@@ -30,5 +30,6 @@ A repository documenting resources to learn about making and operating multiplay
   * [Live Demo](https://www.gabrielgambetta.com/client-side-prediction-live-demo.html)
 * [Dead Reckoning:Latency Hiding for Networked Games](https://www.gamedeveloper.com/programming/dead-reckoning-latency-hiding-for-networked-games)
 * [What Every Programmer Needs To Know About Game Networking](https://gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/)
+* [Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization#Overview)
 * [Deterministic Lockstep](https://gafferongames.com/post/deterministic_lockstep/)
 * [Real-time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
