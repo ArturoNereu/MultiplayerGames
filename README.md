@@ -4,6 +4,7 @@ A repository documenting resources to learn about making and operating multiplay
 ### Videos
 * [I Shot You First: Networking the Gameplay of Halo: Reach](https://youtu.be/h47zZrqjgLc)
 * [Multiplayer Best Practices in Unreal Engine](https://youtu.be/UstLLZbkmOQ)
+* [How To Do Client Prediction in 2022 [Unity Tutorial/C#]](https://www.youtube.com/watch?v=TFLD9HWOc2k&t=6s)
 
 ### Books
 * Development and Deployment of Multiplayer Online Games Series 
