@@ -5,6 +5,8 @@ A repository documenting resources to learn about making and operating multiplay
 * [I Shot You First: Networking the Gameplay of Halo: Reach](https://youtu.be/h47zZrqjgLc)
 * [Multiplayer Best Practices in Unreal Engine](https://youtu.be/UstLLZbkmOQ)
 * [How To Do Client Prediction in 2022 [Unity Tutorial/C#]](https://www.youtube.com/watch?v=TFLD9HWOc2k&t=6s)
+* GDC Vault (Requires paid access)
+     * ['Knockout City's' Parallel, Deterministic, and Rewindable Entity System](https://www.gdcvault.com/play/1028073/-Knockout-City-s-Parallel)
 
 ### Books
 * Development and Deployment of Multiplayer Online Games Series 
