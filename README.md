@@ -38,3 +38,6 @@ A repository documenting resources to learn about making and operating multiplay
 * [Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization#Overview)
 * [Deterministic Lockstep](https://gafferongames.com/post/deterministic_lockstep/)
 * [Real-time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
+
+#### Tools, SDK's, etc.
+* [GGPO](https://www.ggpo.net/) Rollback Networking SDK
